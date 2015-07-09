@@ -16,8 +16,7 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
-#THEME = "/Users/tom/websites/K2MicrolensingWorkshop/tom-themes/gum"
-THEME = "/Users/tom/gitcode/pelican-bootstrap3"
+THEME = "themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'flatly'
 BOOTSTRAP_FLUID = False
 
@@ -40,7 +39,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Subscribe', 'http://keplerscience.arc.nasa.gov/NewsExploder.shtml'),
-		('Kepler Science Center', 'http://keplerscience.arc.nasa.gov/'),
+		 ('Kepler Science Center', 'http://keplerscience.arc.nasa.gov/'),
          ('K2 Science Center', 'http://keplerscience.arc.nasa.gov/K2'),
          ('Mission Manager Updates', 'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'),
          ('Old Blog Posts','http://keplerscience.arc.nasa.gov/Blog.shtml'))
