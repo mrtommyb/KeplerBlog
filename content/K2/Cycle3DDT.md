@@ -1,5 +1,5 @@
 Title: K2 Campaigns 8, 9 and 10 Director's Discretionary Targets Program
-Date: 2015-10-10 14:00
+Date: 2015-09-11 14:00
 Author: Thomas Barclay
 
 The Guest Observer Program solicitation for K2 occurs roughly twice per year and includes a call for multiple K2 campaigns. Given the proposal review timeline, and associated data processing and archive activities, there can be a significant delay between proposal submission and final target selection for each K2 campaign. To provide a faster mechanism for headline astrophysics with K2 we provide an alternative means for acquiring K2 data, through the Director's Discretionary Target (DDT) program. 
